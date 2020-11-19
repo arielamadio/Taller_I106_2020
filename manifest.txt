@@ -1,0 +1,13 @@
+sample-id,absolute-filepath,direction
+sar130,$PWD/Reads/sar130-2019_S120_L001_R1_001.fastq.gz,forward
+sar130,$PWD/Reads/sar130-2019_S120_L001_R2_001.fastq.gz,reverse
+sar131,$PWD/Reads/sar131-2019_S121_L001_R1_001.fastq.gz,forward
+sar131,$PWD/Reads/sar131-2019_S121_L001_R2_001.fastq.gz,reverse
+sar132,$PWD/Reads/sar132-2019_S122_L001_R1_001.fastq.gz,forward
+sar132,$PWD/Reads/sar132-2019_S122_L001_R2_001.fastq.gz,reverse
+sar133,$PWD/Reads/sar133-2019_S123_L001_R1_001.fastq.gz,forward
+sar133,$PWD/Reads/sar133-2019_S123_L001_R2_001.fastq.gz,reverse
+sar134,$PWD/Reads/sar134-2019_S124_L001_R1_001.fastq.gz,forward
+sar134,$PWD/Reads/sar134-2019_S124_L001_R2_001.fastq.gz,reverse
+sar135,$PWD/Reads/sar135-2019_S125_L001_R1_001.fastq.gz,forward
+sar135,$PWD/Reads/sar135-2019_S125_L001_R2_001.fastq.gz,reverse
