@@ -1,7 +1,7 @@
 SampleID	Muestra	Cultivo	pH	C
-sar166	1	MM	5.2	3.94
-sar170	5	MM	5	3.52
-sar174	9	MM	4.9	3.62
-sar178	13	SS	5.6	4.07
-sar182	17	SS	5.8	3.75
-sar186	21	SS	6.1	4.23
+sar166	M1	MM	5.2	3.94
+sar170	M5	MM	5	3.52
+sar174	M9	MM	4.9	3.62
+sar178	M13	SS	5.6	4.07
+sar182	M17	SS	5.8	3.75
+sar186	M21	SS	6.1	4.23
